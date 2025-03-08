@@ -1,6 +1,7 @@
 # Hi EVERYONE 👋
 
-# 📛Rama Davy
+# You can call me : **Rama Davy**
 
-- 🌱 I’m currently learning at Universitas Sumatra Utara
-- 📖 Currently interested with : Game Programming
+**ABOUT ME**
+- 🌱 Currently learning at   : **Universitas Sumatra Utara**
+- 📖 Currently interested in : **Game Programming** ..... kinda
